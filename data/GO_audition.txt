@@ -1,0 +1,105 @@
+#sound
+GO:0050910	detection of mechanical stimulus involved in sensory perception of sound
+GO:0007605	sensory perception of sound
+GO:0055127	vibrational conductance of sound to the inner ear
+GO:0042297	vocal learning
+GO:0042473	outer ear morphogenesis
+GO:0042471	ear morphogenesis
+GO:0071625	vocalization behavior
+GO:0048798	swim bladder inflation
+GO:0048797	swim bladder formation
+GO:0048796	swim bladder maturation
+GO:0048795	swim bladder morphogenesis
+GO:0048794	swim bladder development
+GO:0060113	inner ear receptor cell differentiation
+GO:0090102	cochlea development
+GO:0031223	auditory behavior
+GO:0043583	ear development
+GO:0050972	detection of mechanical stimulus involved in echolocation
+GO:0050959	echolocation
+GO:0021650	vestibulocochlear nerve formation
+GO:0021649	vestibulocochlear nerve structural organization
+GO:0021648	vestibulocochlear nerve morphogenesis
+GO:0021647	vestibulocochlear nerve maturation
+GO:0021562	vestibulocochlear nerve development
+GO:0021722	superior olivary nucleus maturation
+GO:0021721	superior olivary nucleus structural organization
+GO:0021720	superior olivary nucleus formation
+GO:0021719	superior olivary nucleus morphogenesis
+GO:0021718	superior olivary nucleus development
+GO:0010996	response to auditory stimulus
+#hearing
+GO:0042472	inner ear morphogenesis
+GO:0042471	ear morphogenesis
+GO:0007420	brain development
+GO:0048854	brain morphogenesis
+GO:1990696	USH2 complex
+GO:0043583	ear development
+GO:0099129	cochlear outer hair cell electromotile response
+GO:0050910	detection of mechanical stimulus involved in sensory perception of sound
+GO:0007605	sensory perception of sound
+GO:0021605	cranial nerve maturation
+GO:0021604	cranial nerve structural organization
+GO:0021603	cranial nerve formation
+GO:0021602	cranial nerve morphogenesis
+GO:0021545	cranial nerve development
+#auditory
+GO:0042491	auditory receptor cell differentiation
+GO:0042667	auditory receptor cell fate specification
+GO:0042669	regulation of auditory receptor cell fate specification
+GO:0009999	negative regulation of auditory receptor cell fate specification
+GO:0002093	auditory receptor cell morphogenesis
+GO:0042668	auditory receptor cell fate determination
+GO:0060117	auditory receptor cell development
+GO:0060088	auditory receptor cell stereocilium organization
+GO:0031223	auditory behavior
+GO:0009912	auditory receptor cell fate commitment
+GO:0045609	positive regulation of auditory receptor cell differentiation
+GO:0045608	negative regulation of auditory receptor cell differentiation
+GO:0045607	regulation of auditory receptor cell differentiation
+GO:0010996	response to auditory stimulus
+GO:0042474	middle ear morphogenesis
+GO:0042473	outer ear morphogenesis
+GO:1905040	otic placode development
+GO:0002139	stereocilia coupling link
+GO:0060091	kinocilium
+GO:0097423	mitochondrion-associated adherens complex
+GO:0061379	inferior colliculus development
+GO:0050887	determination of sensory modality
+GO:0007605	sensory perception of sound
+GO:0098683	cochlear hair cell ribbon synapse
+GO:0021650	vestibulocochlear nerve formation
+GO:0021649	vestibulocochlear nerve structural organization
+GO:0021648	vestibulocochlear nerve morphogenesis
+GO:0021647	vestibulocochlear nerve maturation
+GO:0021562	vestibulocochlear nerve development
+GO:0032421	stereocilium bundle
+GO:0032420	stereocilium
+GO:0044305	calyx of Held
+#cochlea
+GO:0090102	cochlea development
+GO:0090103	cochlea morphogenesis
+GO:0099129	cochlear outer hair cell electromotile response
+GO:0098683	cochlear hair cell ribbon synapse
+GO:0021749	ventral cochlear nucleus development
+GO:0021748	dorsal cochlear nucleus development
+GO:0021747	cochlear nucleus development
+GO:0042472	inner ear morphogenesis
+GO:0002142	stereocilia ankle link complex
+GO:0002139	stereocilia coupling link
+GO:1905587	positive regulation of outer hair cell apoptotic process
+GO:1905586	negative regulation of outer hair cell apoptotic process
+GO:1905585	regulation of outer hair cell apoptotic process
+GO:0097408	fibrillary inclusion
+GO:1905584	outer hair cell apoptotic process
+GO:0021650	vestibulocochlear nerve formation
+GO:0021649	vestibulocochlear nerve structural organization
+GO:0021648	vestibulocochlear nerve morphogenesis
+GO:0021647	vestibulocochlear nerve maturation
+GO:0021562	vestibulocochlear nerve development
+GO:0021722	superior olivary nucleus maturation
+GO:0021721	superior olivary nucleus structural organization
+GO:0021720	superior olivary nucleus formation
+GO:0021719	superior olivary nucleus morphogenesis
+GO:0021718	superior olivary nucleus development
+GO:0044300	cerebellar mossy fiber

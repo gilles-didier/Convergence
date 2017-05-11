@@ -1,0 +1,6 @@
+Warning: possible issue in estimating the p-value of ANK2
+with confidence 8.8658e-01 (threshold inf) :
+ANK2	*	639	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 1.1342e-01 (threshold 1.73e+00) :
+ANK2	*	639	0.00e+00	1.9539e-03	0.0000e+00	2	351, 365
+

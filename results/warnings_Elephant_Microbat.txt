@@ -1,0 +1,198 @@
+Warning: possible issue in estimating the p-value of CCDC158
+with confidence 2.6229e-02 (threshold 2.00e+00) :
+CCDC158	*	770	0.00e+00	7.4114e-02	0.0000e+00	1	271
+with confidence 9.7377e-01 (threshold 1.99e+00) :
+CCDC158	*	770	0.00e+00	2.8133e-03	0.0000e+00	2	271, 642
+
+Warning: possible issue in estimating the p-value of ATP8A1
+with confidence 1.7767e-03 (threshold 1.97e+00) :
+ATP8A1	*	676	0.00e+00	8.1732e-07	0.0000e+00	4	86, 89, 93, 100
+with confidence 4.5077e-02 (threshold 1.96e+00) :
+ATP8A1	*	676	0.00e+00	1.0961e-08	0.0000e+00	5	86, 89, 93, 100, 240
+with confidence 1.3139e-02 (threshold 1.94e+00) :
+ATP8A1	*	676	0.00e+00	1.2239e-10	0.0000e+00	6	86, 89, 93, 95, 100, 240
+with confidence 4.9673e-03 (threshold 1.94e+00) :
+ATP8A1	*	676	0.00e+00	1.1702e-12	0.0000e+00	7	86, 89, 92, 93, 95, 100, 240
+with confidence 7.5899e-01 (threshold 1.94e+00) :
+ATP8A1	*	676	0.00e+00	9.7773e-15	0.0000e+00	8	86, 89, 91, 92, 93, 95, 100, 240
+with confidence 8.0571e-02 (threshold 1.91e+00) :
+ATP8A1	*	676	0.00e+00	7.2522e-17	0.0000e+00	9	86, 89, 91, 92, 93, 95, 100, 102, 240
+with confidence 7.4790e-02 (threshold 1.90e+00) :
+ATP8A1	*	676	0.00e+00	4.8347e-19	0.0000e+00	10	86, 89, 91, 92, 93, 95, 100, 101, 102, 240
+with confidence 2.0693e-02 (threshold 1.89e+00) :
+ATP8A1	*	676	0.00e+00	2.9260e-21	0.0000e+00	11	86, 89, 91, 92, 93, 95, 96, 100, 101, 102, 240
+
+Warning: possible issue in estimating the p-value of COL11A1
+with confidence 7.4917e-01 (threshold 2.00e+00) :
+COL11A1	*	1092	0.00e+00	1.9950e-04	0.0000e+00	3	254, 273, 379
+with confidence 2.5083e-01 (threshold 2.00e+00) :
+COL11A1	*	1092	0.00e+00	5.4020e-06	0.0000e+00	4	254, 273, 379, 1058
+
+Warning: possible issue in estimating the p-value of DDX1
+with confidence 5.1356e-04 (threshold 2.00e+00) :
+DDX1	*	456	0.00e+00	4.4578e-02	0.0000e+00	1	259
+with confidence 9.9949e-01 (threshold 2.00e+00) :
+DDX1	*	456	0.00e+00	1.0065e-03	0.0000e+00	2	62, 259
+
+Warning: possible issue in estimating the p-value of CNOT4
+with confidence 9.7504e-01 (threshold 1.66e+00) :
+CNOT4	*	582	0.00e+00	1.6267e-03	0.0000e+00	2	576, 577
+with confidence 2.4958e-02 (threshold 1.57e+00) :
+CNOT4	*	582	0.00e+00	3.1300e-05	0.0000e+00	3	576, 577, 579
+
+Warning: possible issue in estimating the p-value of DHX29
+with confidence 9.9024e-01 (threshold 2.00e+00) :
+DHX29	*	908	0.00e+00	3.8773e-03	0.0000e+00	2	632, 807
+with confidence 9.7621e-03 (threshold 2.00e+00) :
+DHX29	*	908	0.00e+00	1.1621e-04	0.0000e+00	3	632, 807, 834
+
+Warning: possible issue in estimating the p-value of FAM160B1
+with confidence 1.7112e-01 (threshold inf) :
+FAM160B1	*	507	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 8.2848e-01 (threshold 1.91e+00) :
+FAM160B1	*	507	0.00e+00	4.9439e-02	0.0000e+00	1	473
+with confidence 3.9510e-04 (threshold 1.84e+00) :
+FAM160B1	*	507	0.00e+00	1.2403e-03	0.0000e+00	2	55, 473
+
+Warning: possible issue in estimating the p-value of FRYL
+with confidence 7.8764e-02 (threshold 1.67e+00) :
+FRYL	*	1456	0.00e+00	9.6195e-03	0.0000e+00	2	481, 1330
+with confidence 9.2123e-01 (threshold 1.62e+00) :
+FRYL	*	1456	0.00e+00	4.6056e-04	0.0000e+00	3	2, 481, 1330
+
+Warning: possible issue in estimating the p-value of HSP90B1
+with confidence 5.6090e-01 (threshold inf) :
+HSP90B1	*	668	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 4.6707e-02 (threshold 1.37e+00) :
+HSP90B1	*	668	0.00e+00	6.4621e-02	0.0000e+00	1	610
+with confidence 3.9239e-01 (threshold 1.37e+00) :
+HSP90B1	*	668	0.00e+00	2.1313e-03	0.0000e+00	2	610, 620
+
+Warning: possible issue in estimating the p-value of KIAA1324
+with confidence 1.2903e-01 (threshold 2.00e+00) :
+KIAA1324	*	657	0.00e+00	2.0631e-03	0.0000e+00	2	163, 286
+with confidence 8.7097e-01 (threshold 2.00e+00) :
+KIAA1324	*	657	0.00e+00	4.4801e-05	0.0000e+00	3	163, 286, 366
+
+Warning: possible issue in estimating the p-value of IPO5
+with confidence 3.3495e-03 (threshold 2.00e+00) :
+IPO5	*	691	0.00e+00	2.2772e-03	0.0000e+00	2	163, 555
+with confidence 9.9665e-01 (threshold 2.00e+00) :
+IPO5	*	691	0.00e+00	5.2002e-05	0.0000e+00	3	65, 163, 555
+
+Warning: possible issue in estimating the p-value of LRP4
+with confidence 6.7461e-01 (threshold 2.00e+00) :
+LRP4	*	421	0.00e+00	4.1228e-02	0.0000e+00	1	33
+with confidence 3.2539e-01 (threshold 2.00e+00) :
+LRP4	*	421	0.00e+00	8.5979e-04	0.0000e+00	2	30, 33
+
+Warning: possible issue in estimating the p-value of LAMB1
+with confidence 1.1134e-03 (threshold 2.00e+00) :
+LAMB1	*	718	0.00e+00	6.9286e-02	0.0000e+00	1	155
+with confidence 9.9889e-01 (threshold 2.00e+00) :
+LAMB1	*	718	0.00e+00	2.4544e-03	0.0000e+00	2	137, 155
+
+Warning: possible issue in estimating the p-value of LYST
+with confidence 5.1009e-03 (threshold 2.00e+00) :
+LYST	*	1251	0.00e+00	7.1972e-03	0.0000e+00	2	138, 364
+with confidence 9.9490e-01 (threshold 2.00e+00) :
+LYST	*	1251	0.00e+00	2.9652e-04	0.0000e+00	3	138, 364, 430
+
+Warning: possible issue in estimating the p-value of MTTP
+with confidence 1.0399e-03 (threshold 2.00e+00) :
+MTTP	*	480	0.00e+00	4.6869e-02	0.0000e+00	1	415
+with confidence 9.9896e-01 (threshold 2.00e+00) :
+MTTP	*	480	0.00e+00	1.1136e-03	0.0000e+00	2	59, 415
+
+Warning: possible issue in estimating the p-value of NOL10
+with confidence 4.4384e-04 (threshold inf) :
+NOL10	*	434	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 9.9674e-01 (threshold 1.98e+00) :
+NOL10	*	434	0.00e+00	4.2474e-02	0.0000e+00	1	137
+with confidence 2.8194e-03 (threshold 1.97e+00) :
+NOL10	*	434	0.00e+00	9.1298e-04	0.0000e+00	2	137, 427
+
+Warning: possible issue in estimating the p-value of NUP37
+with confidence 6.3043e-01 (threshold 2.00e+00) :
+NUP37	*	201	0.00e+00	1.9900e-02	0.0000e+00	1	19
+with confidence 3.6957e-01 (threshold 2.00e+00) :
+NUP37	*	201	0.00e+00	1.9835e-04	0.0000e+00	2	19, 91
+
+Warning: possible issue in estimating the p-value of PSME4
+with confidence 6.8428e-04 (threshold 1.96e+00) :
+PSME4	*	1337	0.00e+00	8.1747e-03	0.0000e+00	2	13, 436
+with confidence 9.9932e-01 (threshold 1.53e+00) :
+PSME4	*	1337	0.00e+00	3.5972e-04	0.0000e+00	3	13, 436, 740
+
+Warning: possible issue in estimating the p-value of PRKCH
+with confidence 7.3444e-04 (threshold 1.97e+00) :
+PRKCH	*	341	0.00e+00	3.3527e-02	0.0000e+00	1	25
+with confidence 9.9927e-01 (threshold 1.53e+00) :
+PRKCH	*	341	0.00e+00	5.6676e-04	0.0000e+00	2	25, 293
+
+Warning: possible issue in estimating the p-value of RB1
+with confidence 9.9366e-01 (threshold 2.00e+00) :
+RB1	*	504	0.00e+00	4.9153e-02	0.0000e+00	1	29
+with confidence 6.3360e-03 (threshold 1.98e+00) :
+RB1	*	504	0.00e+00	1.2259e-03	0.0000e+00	2	29, 61
+
+Warning: possible issue in estimating the p-value of RIC1
+with confidence 8.5196e-03 (threshold 2.00e+00) :
+RIC1	*	1149	0.00e+00	6.1120e-03	0.0000e+00	2	219, 635
+with confidence 9.9148e-01 (threshold 1.99e+00) :
+RIC1	*	1149	0.00e+00	2.3145e-04	0.0000e+00	3	219, 314, 635
+
+Warning: possible issue in estimating the p-value of SCN3A
+with confidence 7.0965e-01 (threshold 1.59e+00) :
+SCN3A	*	1313	0.00e+00	3.4129e-04	0.0000e+00	3	421, 742, 1006
+with confidence 2.4614e-01 (threshold 1.50e+00) :
+SCN3A	*	1313	0.00e+00	1.1104e-05	0.0000e+00	4	421, 742, 1006, 1263
+with confidence 4.4210e-02 (threshold 1.49e+00) :
+SCN3A	*	1313	0.00e+00	2.8944e-07	0.0000e+00	5	421, 742, 1006, 1263, 1267
+
+Warning: possible issue in estimating the p-value of SYN1
+with confidence 9.9979e-01 (threshold inf) :
+SYN1	*	28	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 2.0605e-04 (threshold 2.00e+00) :
+SYN1	*	28	0.00e+00	2.7962e-03	0.0000e+00	1	24
+
+Warning: possible issue in estimating the p-value of TLR3
+with confidence 5.9992e-01 (threshold 2.00e+00) :
+TLR3	*	504	0.00e+00	4.9153e-02	0.0000e+00	1	56
+with confidence 4.0008e-01 (threshold 2.00e+00) :
+TLR3	*	504	0.00e+00	1.2259e-03	0.0000e+00	2	56, 425
+
+Warning: possible issue in estimating the p-value of TRERF1
+with confidence 2.8955e-05 (threshold inf) :
+TRERF1	*	300	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 9.9491e-01 (threshold 1.92e+00) :
+TRERF1	*	300	0.00e+00	2.9556e-02	0.0000e+00	1	15
+with confidence 5.0623e-03 (threshold 1.81e+00) :
+TRERF1	*	300	0.00e+00	4.3969e-04	0.0000e+00	2	14, 15
+
+Warning: possible issue in estimating the p-value of SPTBN1
+with confidence 8.7472e-01 (threshold 2.00e+00) :
+SPTBN1	*	1247	0.00e+00	7.1531e-03	0.0000e+00	2	837, 869
+with confidence 1.2528e-01 (threshold 2.00e+00) :
+SPTBN1	*	1247	0.00e+00	2.9377e-04	0.0000e+00	3	837, 869, 1226
+
+Warning: possible issue in estimating the p-value of VPS4B
+with confidence 9.9970e-01 (threshold inf) :
+VPS4B	*	247	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 2.9688e-04 (threshold 2.00e+00) :
+VPS4B	*	247	0.00e+00	2.9889e-04	0.0000e+00	2	65, 81
+
+Warning: possible issue in estimating the p-value of TPR
+with confidence 6.3043e-01 (threshold 1.97e+00) :
+TPR	*	1701	0.00e+00	1.5643e-01	0.0000e+00	1	1081
+with confidence 3.6079e-01 (threshold 1.88e+00) :
+TPR	*	1701	0.00e+00	1.2921e-02	0.0000e+00	2	623, 1081
+with confidence 8.7803e-03 (threshold 1.86e+00) :
+TPR	*	1701	0.00e+00	7.2131e-04	0.0000e+00	3	623, 799, 1081
+
+Warning: possible issue in estimating the p-value of ZFYVE16
+with confidence 1.4218e-01 (threshold 2.00e+00) :
+ZFYVE16	*	822	0.00e+00	7.8916e-02	0.0000e+00	1	194
+with confidence 8.5782e-01 (threshold 2.00e+00) :
+ZFYVE16	*	822	0.00e+00	3.1954e-03	0.0000e+00	2	194, 198
+

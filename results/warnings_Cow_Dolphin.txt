@@ -1,0 +1,6 @@
+Warning: possible issue in estimating the p-value of PARP11
+with confidence 3.6426e-01 (threshold inf) :
+PARP11	*	218	0.00e+00	1.0000e+00	0.0000e+00	0	
+with confidence 6.3574e-01 (threshold 1.53e+00) :
+PARP11	*	218	0.00e+00	2.3315e-04	0.0000e+00	2	145, 199
+
